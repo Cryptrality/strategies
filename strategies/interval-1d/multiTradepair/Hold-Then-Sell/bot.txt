@@ -1,0 +1,10 @@
+If probability of market crash is low
+    If current price is more than Weekly Moving Average
+        If current candle high > level price and current price < than level price
+                If the amount of buy orders is > 6 and grid level has not been bought before
+                    Print Buy details
+                    Buy 1 ETH and create a take profit at the next grid level and a stop loss 3 grid levels down
+    ElseIf current price is below weekly moving Average
+        ElseIf current candle low is low than current level and current price is greater than level price
+                    Print Buy details
+                    Buy 1 ETH and create take profit for next grid level and stop loss for three grid levels down
