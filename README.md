@@ -1,6 +1,6 @@
 # Strategies
 
-Community collection of strategies compatiable with Trality platform (https://www.trality.com/).
+Community collection of strategies compatiable with [Trality platform](https://www.trality.com/).
 
 ## Repository structure
 
@@ -34,7 +34,7 @@ Everyone welcome to contribute into the project, with open new PR (Pull request)
 
 ## Disclaimer
 
-This project is not maintained by TRALITY GmbH!
+**This project is not maintained by TRALITY GmbH!**
 
 Trading and trading with cryptocurrencies are risky, the content of this repository (Cryptrality/strategies) are not responsible for any outcome of running the code samples. 
 
