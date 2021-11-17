@@ -1,6 +1,6 @@
 # Strategy
 
-Bayesian Bolling is a strategy based on the price swinging betwwen the lower and upper
+The Bayesian Bollinger is a strategy based on the price swinging betwwen the lower and upper
 Bollinger bands (bbands).
 It is based to the concept that the observation of how many candles hitting the bbands
 inte past could predict the direction of the price in the future.
@@ -47,7 +47,9 @@ Strarting from [Batista Harahap](https://bango29.com/bayesian-probability-as-an-
 
 # Backtest Data
 
-Testing individual symbols 15-05-2021 until 25-08-2021
+Testing individual symbols 15-05-2021 until 25-08-2021, starting from 1000 USDT
+and reusing all the amount of the portfolio at every trade.
+_realized pnl_ is the amount in excess from the initial 1000 USDT after the testing period
 
     24.08.2021-22:00:00> MATICUSDT winning positions 61/96, realized pnl: 1563.925
     24.08.2021-22:00:00> VITEUSDT winning positions 71/109, realized pnl: -54.147
