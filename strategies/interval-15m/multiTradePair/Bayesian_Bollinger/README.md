@@ -21,7 +21,6 @@ The code is made to run in the Binance spot market, and auto-recharge BNB to pay
 It is important not to manually cleanup dust positions created by stop loss or
 take profits orders
 
-```
 
 # Author
 
