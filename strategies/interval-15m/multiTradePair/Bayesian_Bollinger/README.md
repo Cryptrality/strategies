@@ -26,6 +26,11 @@ take profits orders
 
 [79bass#4342](https://github.com/ffavero)
 
+## Tip Jar Wallet
+
+    *BEP-20*: 0xEAC8a0d3AB6761860395b33f74dea88B4F16aBcA
+    *ERC20*:  0xEAC8a0d3AB6761860395b33f74dea88B4F16aBcA
+
 # License
 
 MIT
