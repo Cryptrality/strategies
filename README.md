@@ -19,7 +19,7 @@ strategies/interval-1d/...
 Everyone welcome to contribute into the project, with open new PR (Pull request). Order to keep the code standard inside the repository we are recommend the following points to follow while adding a new strategy.
 
 - Strategy code in `strategy_name.py` format
-- Readme.dm fime include the following information,
+- README.md fime include the following information,
 ````
 - Name of the strategy
 - author (name, donation url, picture etc.)
