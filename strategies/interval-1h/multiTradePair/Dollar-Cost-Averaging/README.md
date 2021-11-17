@@ -6,7 +6,8 @@ Set the buy amount (in quoted currency), first buy date/time, and the buy interv
 ```Python
 state.symbol_data["BTC"] = init_symbol(buy_amount=D("100.0"),              
                                        buy_time=datetime.datetime(2021, 9, 13, 17, tzinfo=datetime.timezone.utc),
-                                       time_increment_days=10)```
+                                       time_increment_days=10)
+```
 
 # Author
 
